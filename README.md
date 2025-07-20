@@ -6,7 +6,7 @@ Cloud Transformation Consultant | AWS | Data Infra | MBA | Ex-Ministry of Financ
 
 I help public and private sector organizations modernize their data platforms using cloud-native solutions with a strong focus on ROI, scalability, and business outcomes.
 
-📁 Project 2: Financial Intelligence Modernization for Government of India
+# 📁 Project 2: Financial Intelligence Modernization for Government of India
 
 Domain: Public Sector (Intelligence / Trade Surveillance)Client: Financial crime and smuggling prevention agency under Ministry of FinanceProblem: On-prem SQL + Excel pipelines, ingestion lag, fragmented cross-agency data
 
